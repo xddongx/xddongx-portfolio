@@ -308,7 +308,7 @@
 	}
 
 	.hero img {
-		height: 360px
+		height: 340px
 	}
 
 	/* SITEMAIN
@@ -378,6 +378,9 @@
 		width: 90%;
 		padding: 40px 20px;
 	}
+	#table {
+		margin-top: 0px;
+	}
 
 	/* Section: Counters */
 	.section-counters .col-xs-12 + .col-xs-12 {
@@ -440,6 +443,9 @@
 
 	.section-portfolio .btn {
 		margin-top: 25px;
+	}
+	#table {
+		margin-top: 0px;
 	}
 
 	/* FOOTER
