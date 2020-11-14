@@ -480,6 +480,9 @@ html, body {
 .modal-body h4 {
     font-weight: 700;
 }
+.modal-body p {
+    padding: 5px 25px 5px 25px;
+}
 
 .modal-footer {
     text-align: center;
